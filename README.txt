@@ -1,0 +1,1 @@
+This program is an OOP using Java which works as an eccomerece system, the customer can buy, order and ship the items available.
